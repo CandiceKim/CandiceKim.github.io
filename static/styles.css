@@ -90,8 +90,7 @@ body {
     align-items: center;
     height: 100%;
     text-align: center;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 15%;
 }
 
 .img-text-wrapper .subtitle,
@@ -100,6 +99,7 @@ body {
     transition: 1s ease-in-out;
     color: transparent;
     opacity: 0;
+    text-align: center;
 }
 
 .img-text-wrapper .audio {
